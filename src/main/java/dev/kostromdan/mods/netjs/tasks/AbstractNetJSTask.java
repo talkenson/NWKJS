@@ -3,7 +3,7 @@ package dev.kostromdan.mods.netjs.tasks;
 import dev.kostromdan.mods.netjs.callbacks.NetJSICallback;
 import dev.kostromdan.mods.netjs.results.NetJSResultMap;
 import dev.kostromdan.mods.netjs.utils.TrustAllCertificates;
-import dev.latvian.mods.kubejs.util.ConsoleJS;
+import dev.latvian.mods.kubejs.script.ConsoleJS;
 
 public abstract class AbstractNetJSTask extends TrustAllCertificates implements Runnable {
         public String id = null;
