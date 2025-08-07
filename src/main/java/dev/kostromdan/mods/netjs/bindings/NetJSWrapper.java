@@ -3,7 +3,7 @@ package dev.kostromdan.mods.netjs.bindings;
 import dev.kostromdan.mods.netjs.callbacks.NetJSICallback;
 import dev.kostromdan.mods.netjs.tasks.AbstractNetJSTask;
 import dev.kostromdan.mods.netjs.tasks.HttpRequestTask;
-import dev.latvian.mods.kubejs.util.ConsoleJS;
+import dev.latvian.mods.kubejs.script.ConsoleJS;
 
 public interface NetJSWrapper {
 

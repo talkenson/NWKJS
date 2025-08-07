@@ -4,6 +4,8 @@
 
 Addon for KubeJS that provides direct HTTP requests. This fork removes the safety checks of the original mod and exposes a simple API that lets scripts contact any URL. Handling responses and validating data is completely up to the script author.
 
+Built for Minecraft 1.21.1 on NeoForge using Java 21.
+
 ## Usage
 
 ```js
